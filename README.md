@@ -18,6 +18,10 @@ A simple and responsive password generator built while following
 - Include/exclude numbers and special characters
 - Copy to clipboard with one click
 
+## **Screenshot**
+
+<img width="990" height="403" alt="image" src="https://github.com/user-attachments/assets/e13c8558-7123-4aea-a6b6-f142e9cce2d6" />
+
 
 
 ## 🧠 What I Learned
